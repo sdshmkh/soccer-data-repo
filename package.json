@@ -12,9 +12,10 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.3",
-    "json2csv": "^4.3.2",
-    "nodemon": "^1.18.7",
     "request": "^2.87.0",
     "request-promise": "^4.2.2"
+  }, 
+  "devDependencies": {
+    "nodemon": "^1.18.7"
   }
 }
